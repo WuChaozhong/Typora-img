@@ -1,1 +1,1 @@
-# Typora.img
+# Typora-img
